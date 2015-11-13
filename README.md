@@ -1,6 +1,6 @@
 ![01](https://github.com/Agnishom/TRatios/blob/master/01.jpg?raw=true)
 ![02](https://github.com/Agnishom/TRatios/blob/master/02.jpg?raw=true)
-![03](https://github.com/Agnishom/TRatios/blob/master/03.jpg?raw=true)
+
 ![04](https://github.com/Agnishom/TRatios/blob/master/04.jpg?raw=true)
 ![05](https://github.com/Agnishom/TRatios/blob/master/05.jpg?raw=true)
 ![06](https://github.com/Agnishom/TRatios/blob/master/06.jpg?raw=true)
@@ -10,3 +10,9 @@
 ![10](https://github.com/Agnishom/TRatios/blob/master/10.jpg?raw=true)
 ![11](https://github.com/Agnishom/TRatios/blob/master/11.jpg?raw=true)
 ![12](https://github.com/Agnishom/TRatios/blob/master/12.jpg?raw=true)
+![13](https://github.com/Agnishom/TRatios/blob/master/13.jpg?raw=true)
+![14](https://github.com/Agnishom/TRatios/blob/master/14.jpg?raw=true)
+![15](https://github.com/Agnishom/TRatios/blob/master/15.jpg?raw=true)
+![16](https://github.com/Agnishom/TRatios/blob/master/16.jpg?raw=true)
+![17](https://github.com/Agnishom/TRatios/blob/master/17.jpg?raw=true)
+![18](https://github.com/Agnishom/TRatios/blob/master/18.jpg?raw=true)
